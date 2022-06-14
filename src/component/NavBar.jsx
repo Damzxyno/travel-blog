@@ -54,7 +54,7 @@ import "./css/navbar.css"
                   <Link to={links.SIGN_UP_LINK} className="nav-links" onClick={closeMobileMenu}>SIGN-UP</Link>
                 </li>
             </ul>
-             {button && <Button buttonStyle="btn--primary">SIGN UP</Button>}
+             {button && <Button buttonStyle="btn--primary" buttonSize="btn--large">SIGN UP</Button>}
          </nav>
      </>
 
