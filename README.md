@@ -1,6 +1,6 @@
 # DAMZXY TRAVEL
 
-This project is a travel destination blog which helps client learn about differents options available to them as well as exposing them to neccessary information about these places.
+This project is a sample travel destination blog which helps client learn about differents options available to them as well as exposing them to neccessary information about these places.
 
 *Not deployed to external server yet.*
 
